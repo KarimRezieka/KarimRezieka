@@ -13,9 +13,9 @@
 
 
 ## 🚀 About Me
-- 🏢 I'm a junior BackEnd developer
+- 🏢 I'm a junior FullStack developer
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with python, django, and ruby, or anything related to web development.
+- 💬 Ask me about my experience with Express, Next, and Django, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👻  Instersted in cyber security (red teaming) 
 <!-- - 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on. -->
